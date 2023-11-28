@@ -314,7 +314,7 @@ To add a remote
 # replace 'remote-url' with the corresponding url (or file path)
 git remote add name remote-url 
 
-# e.g. to add the remote where this document is stored, on the Azure DevOps server (hydra), we would enter:
+# e.g. to add the remote repository on GitHub
 # https:
 git remote add origin https://github.com/chrismainey/Regression_Modelling_NHSR.git
 
